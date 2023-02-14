@@ -7,18 +7,18 @@ The data used to train the model is included in the data folder, and consists of
 # Model
 The model is built using a variety of regression techniques such as linear regression, decision trees, and random forests. The Jupyter notebook house_price_prediction.ipynb contains the code used to train and evaluate the model.
 
-Usage
+# Usage
 To run the code and reproduce the results, you can follow these steps:
 
-Clone the repository to your local machine.
+# Clone the repository to your local machine.
 Install the necessary packages by running pip install -r requirements.txt.
 Navigate to the src folder and run jupyter notebook to start the notebook server.
 Open the house_price_prediction.ipynb notebook and run the cells.
 Results
 The trained model achieves a root mean squared error (RMSE) of 50,000 on the test data, indicating that it can predict house prices with reasonable accuracy.
 
-Contributing
+# Contributing
 Contributions to this repository are welcome. If you have suggestions for improving the model or the code, please submit a pull request.
 
-License
+# License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
