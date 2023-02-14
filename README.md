@@ -17,7 +17,7 @@ To run the code and reproduce the results, you can follow these steps:
 1.  Clone the repository to your local machine.
 2.  Install the necessary packages by running `pip install -r requirements.txt`.
 3.  Navigate to the `src` folder and run `jupyter notebook` to start the notebook server.
-4.  Open the `house_price_prediction.ipynb` notebook and run the cells.
+4.  Open the `app.ipynb` notebook and run the cells.
 
 ## Results
 
@@ -29,4 +29,4 @@ Contributions to this repository are welcome. If you have suggestions for improv
 
 ## License
 
-This repository is licensed under the MIT License. See the `LICENSE` file for more information.
+`No LICENSE`
