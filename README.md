@@ -1,4 +1,4 @@
-Sure, here is the revised documentation for your House Price Prediction project using AutoKeras:
+
 
 # House Price Prediction
 
